@@ -4,7 +4,7 @@ const router = Router();
 router.get('/test', (req, res) => {
     const data = {
         "name": "Dylan",
-        "website" : "faztweb.com"
+        "website" : "dfacuyweb.com"
     };
     res.json(data); 
 });
